@@ -1,0 +1,18 @@
+.img {
+  background-color:cadetblue;
+  text-align: center;
+  height: 40vh;
+  width: 40vw;
+}
+button{
+color: red;
+background-color: yellow;
+padding: 10px;
+border-radius: 15px;
+margin: 20px;
+}
+
+p
+{
+  font-size: 30px;
+}
