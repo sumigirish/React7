@@ -1,0 +1,11 @@
+button {
+  border-radius: 25px;
+  color: black;
+  background-color: pink;
+}
+
+.App{
+  height: 30vh;
+  width: 30vw;
+  font-size: 30px;
+}

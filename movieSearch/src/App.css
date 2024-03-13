@@ -1,0 +1,11 @@
+img{
+  padding: 50px;
+  box-shadow: 5px 5px 5px black;
+  height: 100px;
+  width: 100px;
+  }
+  
+.App1{
+ display: flex;
+ gap: 20px;
+}

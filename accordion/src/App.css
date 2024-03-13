@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  background-color: rgba(77, 16, 33, 0.342);
+}
+
+h1{
+  text-align: center;
+}
+
+.accordion{
+  max-width: 600px;
+  margin: 2rem auto;
+  width: 90%;
+}
+
+.accordion-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  cursor: pointer;
+  background-color:rgba(255, 228, 196, 0.427);
+
+}
+
+.accordion-title:hover {
+  background-color: whitesmoke;
+}
+
+
+.accordion-content {
+  background-color: rgb(206, 223, 223);
+}

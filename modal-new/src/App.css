@@ -1,0 +1,11 @@
+button {
+  border-radius: 25px;
+  color: black;
+  background-color: rgba(41, 82, 243, 0.74);
+}
+
+.App{
+  height: 10vh;
+  width: 10vw;
+  font-size: 30px;
+}

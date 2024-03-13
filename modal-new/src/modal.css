@@ -1,0 +1,24 @@
+.modal {
+    position: fixed;  
+    left: 0;  
+    top: 0; 
+    right: 0;
+    bottom: 0;      
+    background-color: rgba(135, 165, 211, 0.5); 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+  }
+  
+ 
+  .content { 
+    width: 50%;  
+    background-color: #3315de3a; 
+    padding: 10px; 
+  }
+   
+  
+  .footer { 
+    margin-top: 10px; 
+  }
+  

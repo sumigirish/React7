@@ -1,0 +1,26 @@
+App {
+
+  align-items: center;
+
+  justify-content: center;
+
+}
+
+ 
+
+button {
+
+  margin: 20px;
+
+  border-radius: 20px;
+
+  padding: auto;
+
+  background-color: black;
+
+  color: white;
+
+  font-size: 14px;
+
+}
+
