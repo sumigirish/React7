@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import "./App.css"
 function App() {
-  const [currentTime, setCurrentTime] = useState(0); // Initial countdown time in seconds
+  const [currentTime, setCurrentTime] = useState(1); // Initial countdown time in seconds
   const [isTimerRunning, setIsTimerRunning] = useState(false); // Timer running state
   const intervalRef = useRef(null); // Ref to hold interval ID for cleanup
 
